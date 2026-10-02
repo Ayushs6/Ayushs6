@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Shrivastava 👋</h1>
 
-<p align="center">
-  AI engineer and data engineer. I build retrieval and LLM applications in Python: semantic search, sentiment pipelines, and tool-calling agents. Before grad school I spent three years at Altera Digital Health running SQL Server environments and ETL pipelines holding millions of patient records for enterprise healthcare clients, including Optum.
+<p align="center"><b>
+  AI engineer and data engineer. I build retrieval and LLM applications in Python: semantic search, and tool-calling agents. Before grad school I spent three years at Altera Digital Health running SQL Server environments and ETL pipelines holding millions of patient records for enterprise healthcare clients.</b><br>
   </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-shrivastava615/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:shrivastavaa2@montclair.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  </p>
+</p>
 
 ## What I'm building
 
