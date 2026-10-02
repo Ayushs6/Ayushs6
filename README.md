@@ -3,9 +3,12 @@
 <p align="center"><b>
   AI engineer and data engineer. I build retrieval and LLM applications in Python: semantic search, and tool-calling agents. Before grad school I spent three years at Altera Digital Health running SQL Server environments and ETL pipelines holding millions of patient records for enterprise healthcare clients.</b><br>
   </p>
+<br>
+<br>
+<br>
 
 <p align="center">
-🎓Finishing an MS in Data Science at Montclair State (4.0 GPA, graduating December 2026). &nbsp;·&nbsp;📍Based in New Jersey.
+🎓Finishing an MS in Data Science at Montclair State University (4.0 GPA, graduating December 2026). &nbsp;·&nbsp;📍 New Jersey
   </p>
 
 <p align="center">
@@ -22,17 +25,7 @@
 - [SAM prompt engineering](https://github.com/Ayushs6/sam-prompt-engineering): zero-shot segmentation with Meta's Segment Anything. Three prompt strategies, mask confidence up to 0.99, and profiling that found a 120x per-prompt speedup in its encode-once/predict-many design.
 - MNIST model benchmarking: 15+ classical ML and deep learning models compared on the same harness. A four-layer CNN came out on top at 98.72% test accuracy.
 
-## Tools I use
-
-- Languages: Python, SQL, R
-- LLM and retrieval: RAG, LangChain, Hugging Face Transformers, sentence-transformers, pgvector, Gemini and Groq APIs
-- Machine learning: PyTorch, scikit-learn, XGBoost
-- Data engineering: PySpark, PostgreSQL, SQL Server, Snowflake, Databricks, Azure Data Factory
-- Deployment: FastAPI, Docker, AWS, Power BI
-
-Open to AI/ML and data engineering roles.
-
-### 🛠️ Tech I work with
+## 🛠️ Tools I use
 
 **AI / LLM**&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/RAG-5C2D91?style=flat-square" alt="RAG">
