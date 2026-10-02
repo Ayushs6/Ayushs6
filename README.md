@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🎓 MS Data Science @ Montclair State (4.0 GPA) &nbsp;·&nbsp; 🏥 3 yrs engineering data for enterprise healthcare &nbsp;·&nbsp; 📍 New Jersey
+  🎓 MS Data Science @ Montclair State University (4.0 GPA) &nbsp;·&nbsp; 🏥 3 yrs engineering data for enterprise healthcare &nbsp;·&nbsp; 📍 New Jersey
 </p>
 
 <p align="center">
