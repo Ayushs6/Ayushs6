@@ -5,9 +5,7 @@
   </p>
 
 <p align="center">
-🎓Finishing an MS in Data Science at Montclair State (4.0 GPA, graduating December 2026). 
-  
-📍Based in New Jersey.
+🎓Finishing an MS in Data Science at Montclair State (4.0 GPA, graduating December 2026). &nbsp;·&nbsp;📍Based in New Jersey.
   </p>
 
 <p align="center">
