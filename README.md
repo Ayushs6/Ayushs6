@@ -1,32 +1,29 @@
-<h1 align="center">Hi, I'm Ayush Shrivastava 👋</h1>
+# Hi, I'm Ayush Shrivastava
 
-<p align="center">
-  <b>AI Engineer · Data Engineer</b><br>
-  I build LLM-powered systems on top of production-grade data pipelines.
-</p>
+AI engineer and data engineer. I build retrieval and LLM applications in Python: semantic search, sentiment pipelines, and tool-calling agents. Before grad school I spent three years at Altera Digital Health running SQL Server environments and ETL pipelines holding millions of patient records for enterprise healthcare clients, including Optum.
 
-<p align="center">
-  🎓 MS Data Science @ Montclair State University (4.0 GPA) &nbsp;·&nbsp; 🏥 3 yrs engineering data for enterprise healthcare &nbsp;·&nbsp; 📍 New Jersey
-</p>
+Finishing an MS in Data Science at Montclair State (4.0 GPA, graduating December 2026). Based in New Jersey.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-shrivastava615/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:shrivastavaa2@montclair.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/ayush-shrivastava615/) · [Email](mailto:shrivastavaa2@montclair.edu)
 
----
+## What I'm building
 
-### 🔭 Currently building
+[StockWatch](https://github.com/Ayushs6/StockWatch) is a stock intelligence platform. It runs semantic vector search over all 503 S&P 500 stocks, scores live news and Reddit posts with FinBERT sentiment, and writes analyst briefs through a three-tier LLM fallback chain (Groq Llama 3.1, then Gemini 2.0 Flash, then an extractive summary), so the feature stays up through any single API outage.
 
-**[StockWatch](https://github.com/Ayushs6/StockWatch)** — an AI stock intelligence platform
+## Other projects
 
-> Semantic vector search over all 503 S&P 500 stocks, FinBERT sentiment on live news + Reddit, and a 3-tier LLM fallback chain (Groq Llama 3.1 → Gemini 2.0 Flash → extractive summary) that keeps analyst briefs available through any single API outage.
+- [SAM prompt engineering](https://github.com/Ayushs6/sam-prompt-engineering): zero-shot segmentation with Meta's Segment Anything. Three prompt strategies, mask confidence up to 0.99, and profiling that found a 120x per-prompt speedup in its encode-once/predict-many design.
+- MNIST model benchmarking: 15+ classical ML and deep learning models compared on the same harness. A four-layer CNN came out on top at 98.72% test accuracy.
 
-### 💡 Other things I've shipped
+## Tools I use
 
-- 🔬 **[SAM Prompt Engineering](https://github.com/Ayushs6/course-projects-ml)** — zero-shot segmentation with Meta's Segment Anything; profiled a **120× per-prompt speedup** by exploiting its encode-once/predict-many design
-- 📊 **MNIST Model Benchmarking** — 15+ classical ML & DL models compared head-to-head; CNN topped out at **98.72%**
-- ⚙️ ETL pipelines and SQL Server environments holding **millions of patient records** for enterprise healthcare clients @ Altera Digital Health
+- Languages: Python, SQL, R
+- LLM and retrieval: RAG, LangChain, Hugging Face Transformers, sentence-transformers, pgvector, Gemini and Groq APIs
+- Machine learning: PyTorch, scikit-learn, XGBoost
+- Data engineering: PySpark, PostgreSQL, SQL Server, Snowflake, Databricks, Azure Data Factory
+- Deployment: FastAPI, Docker, AWS, Power BI
+
+Open to AI/ML and data engineering roles.
 
 ### 🛠️ Tech I work with
 
