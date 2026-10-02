@@ -2,7 +2,9 @@
 
 <p align="center">
   AI engineer and data engineer. I build retrieval and LLM applications in Python: semantic search, sentiment pipelines, and tool-calling agents. Before grad school I spent three years at Altera Digital Health running SQL Server environments and ETL pipelines holding millions of patient records for enterprise healthcare clients, including Optum.
+  </p>
 
+<p align="center">
 🎓Finishing an MS in Data Science at Montclair State (4.0 GPA, graduating December 2026). 
 📍Based in New Jersey.
 
